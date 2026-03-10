@@ -1,0 +1,14 @@
+C:\Users\moise\OneDrive\Escritorio\prototipo\prototipo\obj\Debug\net8.0\prototipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\OneDrive\Escritorio\prototipo\prototipo\obj\Debug\net8.0\prototipo.AssemblyInfoInputs.cache
+C:\Users\moise\OneDrive\Escritorio\prototipo\prototipo\obj\Debug\net8.0\prototipo.AssemblyInfo.cs
+C:\Users\moise\OneDrive\Escritorio\prototipo\prototipo\obj\Debug\net8.0\prototipo.csproj.CoreCompileInputs.cache
+C:\Users\moise\OneDrive\Escritorio\prototipo\prototipo\bin\Debug\net8.0\prototipo.exe
+C:\Users\moise\OneDrive\Escritorio\prototipo\prototipo\bin\Debug\net8.0\prototipo.deps.json
+C:\Users\moise\OneDrive\Escritorio\prototipo\prototipo\bin\Debug\net8.0\prototipo.runtimeconfig.json
+C:\Users\moise\OneDrive\Escritorio\prototipo\prototipo\bin\Debug\net8.0\prototipo.dll
+C:\Users\moise\OneDrive\Escritorio\prototipo\prototipo\bin\Debug\net8.0\prototipo.pdb
+C:\Users\moise\OneDrive\Escritorio\prototipo\prototipo\obj\Debug\net8.0\prototipo.dll
+C:\Users\moise\OneDrive\Escritorio\prototipo\prototipo\obj\Debug\net8.0\refint\prototipo.dll
+C:\Users\moise\OneDrive\Escritorio\prototipo\prototipo\obj\Debug\net8.0\prototipo.pdb
+C:\Users\moise\OneDrive\Escritorio\prototipo\prototipo\obj\Debug\net8.0\prototipo.genruntimeconfig.cache
+C:\Users\moise\OneDrive\Escritorio\prototipo\prototipo\obj\Debug\net8.0\ref\prototipo.dll
